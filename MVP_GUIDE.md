@@ -5,8 +5,17 @@ This is a demonstration version of the Pharmacy Management System designed for m
 
 ## 🚀 Quick Start
 1.  **Login**: Access the secure dashboard.
-    *   **Email**: `admin@pharmcare.com` (or any valid email)
-    *   **Password**: [Any secure password, e.g., P@ssw0rd123]
+    
+    **Admin Account:**
+    *   **Email**: `admin@demo.com`
+    *   **Password**: `Admin123!`
+    
+    **Cashier Account:**
+    *   **Email**: `cashier@demo.com`
+    *   **Password**: `Cashier123!`
+    
+    *Note: These demo accounts need to be created in your Supabase dashboard first. See `DEMO_CREDENTIALS.md` for setup instructions.*
+
 2.  **Dashboard**: View real-time sales and low stock alerts.
 3.  **New Sale**: Click "New Sale" to simulate a transaction.
     *   *Note: This demo performs instant printing simulation.*
